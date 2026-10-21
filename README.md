@@ -1,49 +1,54 @@
 # 🏦 FlowBank
 
-Sistema bancário desenvolvido em Java com integração ao Supabase e banco de dados SQL, criado para aplicar conceitos de Programação Orientada a Objetos (POO), persistência de dados e desenvolvimento de sistemas.
+> Aplicação bancária desenvolvida em Java com autenticação de usuários, gerenciamento financeiro, extrato de transações e integração com banco de dados Supabase.
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-green)
+![Maven](https://img.shields.io/badge/Maven-Build-red)
+
+---
 
 ## 📖 Sobre o Projeto
 
-O FlowBank é uma aplicação desenvolvida durante a graduação em Análise e Desenvolvimento de Sistemas com o objetivo de simular operações financeiras e bancárias, permitindo o gerenciamento de receitas, despesas e movimentações financeiras.
+O FlowBank é um sistema bancário desenvolvido durante a graduação em Análise e Desenvolvimento de Sistemas com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO), integração com banco de dados e desenvolvimento de software.
 
-## 🚀 Funcionalidades
+---
+
+## ✨ Principais Recursos
 
 ✅ Autenticação de usuários
 
 ✅ Cadastro de receitas e despesas
 
-✅ Gerenciamento de movimentações financeiras
+✅ Controle de movimentações financeiras
 
 ✅ Atualização de saldo em tempo real
 
-✅ Consulta de extrato de transações
+✅ Extrato de transações
 
 ✅ Filtros para movimentações financeiras
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
-- Java
-- Supabase
-- SQL
-- Maven
-- JDBC
-- Programação Orientada a Objetos (POO)
+- ☕ Java
+- 💾 SQL
+- 🗄️ Supabase
+- 🔗 JDBC
+- 📦 Maven
+- 🧩 Programação Orientada a Objetos (POO)
 
-## 📂 Estrutura do Projeto
+---
 
-```text
-src
-├── Main.java
-├── Usuario.java
-├── UsuarioDAO.java
-├── Lancamento.java
-├── LancamentoDAO.java
-├── Conexao.java
-├── TelaAutenticacao.java
-├── TelaCadastroUsuario.java
-├── TelaPrincipal.java
-└── Cores.java
-```
+## 🎥 Demonstração
+
+Confira o vídeo de demonstração do sistema:
+
+🔗 [Ver demonstração no LinkedIn](https://lnkd.in/p/dkGdkqjZ)
+
+---
 
 ## 🎯 Objetivos do Projeto
 
@@ -52,6 +57,8 @@ src
 - Implementar operações CRUD
 - Trabalhar autenticação de usuários
 - Simular regras de negócio financeiras
+
+---
 
 ## 📚 Conceitos Aplicados
 
@@ -64,11 +71,7 @@ src
 - Integração com Banco de Dados
 - Tratamento de Exceções
 
-## 🎥 Demonstração
-
-Confira o vídeo de demonstração do sistema:
-
-🔗 [Ver demonstração no LinkedIn](https://lnkd.in/p/dkGdkqjZ)
+---
 
 ## 👨‍💻 Autor
 
@@ -78,6 +81,9 @@ Confira o vídeo de demonstração do sistema:
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/guilherme-bruno-28101b2b9
+
+💻 GitHub:
+https://github.com/Guilherme-santos77
 
 ---
 
