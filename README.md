@@ -64,6 +64,12 @@ src
 - Integração com Banco de Dados
 - Tratamento de Exceções
 
+## 🎥 Demonstração
+
+Confira o vídeo de demonstração do sistema:
+
+🔗 [Ver demonstração no LinkedIn](https://lnkd.in/p/dkGdkqjZ)
+
 ## 👨‍💻 Autor
 
 **Guilherme Santos**
